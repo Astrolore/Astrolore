@@ -8,7 +8,7 @@
 
 
 <div align="center">
-I am a <b>DOST Scholar</b>, a <b>Writer</b> and a student at <b>West Visayas State University.</b> <br>I am currently pursuing a <b>Bachelor of Science in Computer Science</b> degree with a major in <b>Artificial Intelligence</b>.
+I am a <b>DOST Scholar</b>, a <b>Writer</b> and a 4th year student at <b>West Visayas State University.</b> <br>I am currently pursuing a <b>Bachelor of Science in Computer Science</b> degree with a major in <b>Artificial Intelligence</b>.
 </div>
 
 <br>
