@@ -1,7 +1,7 @@
 
 
-![Fynmn's Header](https://github.com/Fynmn/.github-images/blob/main/header-gif.gif?raw=true)
-![ProfileViewsCounter](https://komarev.com/ghpvc/?username=Fynmn&color=f2a8be)
+![Fynmn's Header](https://github.com/Astrolore/.github-images/blob/main/header-gif.gif?raw=true)
+![ProfileViewsCounter](https://komarev.com/ghpvc/?username=Astrolore&color=f2a8be)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=3000&color=C98895&center=true&vCenter=true&lines=What's+poppin'%3F;My+name's+Natalie!;Welcome+to+my+page!">
 </h1>
@@ -15,10 +15,10 @@ I am a <b>DOST Scholar</b>, a <b>Writer</b> and a 4th year student at <b>West Vi
 
 <div align="center">
 <span align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Fynmn&theme=synthwave&count_private=true&include_all_commits=true" alt="Fynmn" />
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Fynmn&theme=synthwave" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Astrolore&theme=synthwave&count_private=true&include_all_commits=true" alt="Fynmn" />
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Astrolore&theme=synthwave" />
 </span>
 </div>
 <div align="center">
-   <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fynmn&theme=synthwave&layout=compact&langs_count=15" />
+   <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrolore&theme=synthwave&layout=compact&langs_count=15" />
 </div>
