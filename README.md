@@ -15,10 +15,10 @@ I am a <b>DOST Scholar</b>, a <b>Writer</b> and a 4th year student at <b>West Vi
 
 <div align="center">
 <span align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Astrolore&theme=synthwave&count_private=true&include_all_commits=true" alt="Fynmn" />
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Astrolore&theme=synthwave" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Fynmn&theme=synthwave&count_private=true&include_all_commits=true" alt="Fynmn" />
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Fynmn&theme=synthwave" />
 </span>
 </div>
 <div align="center">
-   <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrolore&theme=synthwave&layout=compact&langs_count=15" />
+   <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fynmn&theme=synthwave&layout=compact&langs_count=15" />
 </div>
