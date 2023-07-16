@@ -8,7 +8,11 @@
 
 
 <div align="center">
-I was a <b>DOST Scholar</b> and a graduate of <b>West Visayas State University.</b> <br>During my time at WVSU, I was pursuing a <b>Bachelor of Science in Computer Science</b> degree with a major in <b>Artificial Intelligence</b>.
+    Graduate of BS Computer Science | DOST scholar | Writer 
+</div>
+
+<div align="center">
+    view my [portfolio](natalie.jane.vercel.app)
 </div>
 
 <br>
