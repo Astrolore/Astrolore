@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-    view my [portfolio](natalie.jane.vercel.app)
+    view my [portfolio](https://nataliejane.vercel.app/)
 </div>
 
 <br>
